@@ -4,41 +4,41 @@
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "publishYear": 1960,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/mockingbird.jpg"
+        "imageUrl": "images/mockingbird.jpg"
     },
     {
         "id": 2,
         "title": "1984",
         "author": "George Orwell", 
         "publishYear": 1949,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/1984.jpg"
+        "imageUrl": "images/1984.jpg"
     },
     {
         "id": 3,
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
         "publishYear": 1813,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/pride-prejudice.jpg"
+        "imageUrl": "images/PrideandPrejudice.jpg"
     },
     {
         "id": 4,
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "publishYear": 1925,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/gatsby.jpg"
+        "imageUrl": "images/TheGreatGatsby.jpg"
     },
     {
         "id": 5,
         "title": "Brave New World",
         "author": "Aldous Huxley",
         "publishYear": 1932,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/brave-new-world.jpg"
+        "imageUrl": "images/BraveNewWorld.jpg"
     },
     {
         "id": 6,
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "publishYear": 1951,
-        "imageUrl": "https://raw.githubusercontent.com/example/books/main/catcher-rye.jpg"
+        "imageUrl": "images/TheCatcherintheRye.jpgg"
     }
 ]
